@@ -37,7 +37,7 @@ class PricingView extends StatelessWidget {
                 Column(
                   children: [
                     Container(
-                        color: Colors.white.withOpacity(0.02),
+                        // color: Colors.white.withOpacity(0.02),
                         width: double.infinity,
                         child: CarouselSlider(
                           items: [
@@ -76,7 +76,7 @@ class PricingView extends StatelessWidget {
                     Wrap(
                       children: [
                         Container(
-                          color: Colors.white.withOpacity(0.02),
+                          // color: Colors.white.withOpacity(0.02),
                           width: double.infinity,
                           height: 60,
                           child: CarouselSlider(
